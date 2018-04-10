@@ -1,0 +1,9 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "jQuery": "3.2.1",
+    "jquery-ui": "1.12.1",
+    "react": "v15.6.1"
+  }
+}

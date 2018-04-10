@@ -1,0 +1,62 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+	"dependencies": {
+		"@types/history": "4.5.1",
+		"@types/react": "15.0.35",
+		"@types/react-dom": "15.5.0",
+		"@types/react-redux": "4.4.46",
+		"@types/react-router-dom": "4.0.6",
+		"@types/react-router-redux": "5.0.1",
+		"@types/webpack": "2.2.15",
+		"@types/webpack-env": "1.13.0",
+
+		"aspnet-prerendering": "^2.0.5",
+		"aspnet-webpack": "^1.0.29",
+		"aspnet-webpack-react": "^2.0.0",
+
+		"domain-task": "^3.0.0",
+		"event-source-polyfill": "0.0.9",
+		"history": "4.6.1",
+		"node-noop": "1.0.0",
+
+		"react": "15.6.1",
+		"react-dom": "15.5.4",
+		"react-hot-loader": "3.0.0-beta.7",
+		"react-redux": "5.0.5",
+		"react-router-dom": "4.1.1",
+		"react-router-redux": "5.0.0-alpha.6",
+		"redux": "3.7.1",
+		"redux-thunk": "2.2.0",
+
+		"office-ui-fabric-react": "^4.18.0",
+		"font-awesome": "4.7.0",
+		"typeface-exo-2": "0.0.31",
+
+		"typescript": "2.4.1",
+		"axios": "0.16.2",
+		"inversify": "4.2.0",
+		"inversify-binding-decorators": "3.0.0",
+		"inversify-inject-decorators": "3.0.1",
+		"reflect-metadata": "0.1.10",
+		"typescript-fsa": "2.4.0",
+		"typescript-fsa-reducers": "0.4.4",
+
+		"webpack": "2.5.1",
+		"webpack-hot-middleware": "2.18.0",
+		"webpack-merge": "4.1.0",
+		"extract-text-webpack-plugin": "2.1.0",
+		"file-loader": "0.11.1",
+		"url-loader": "0.5.8",
+		"json-loader": "0.5.4",
+		"css-loader": "0.28.1",
+		"style-loader": "0.17.0",
+		"postcss-loader": "2.0.6",
+		"sass-loader": "6.0.6",
+		"node-sass": "4.5.3",
+		"typed-css-modules": "0.2.0",
+		"typed-css-modules-loader": "0.0.10",
+		"typings-for-css-modules-loader": "1.5.0",
+		"awesome-typescript-loader": "3.1.3"
+	}
+}
